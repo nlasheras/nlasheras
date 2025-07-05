@@ -2,9 +2,9 @@
 
 🗺 Spaniard living in Finland
 
-- 🎮👨‍💻 Game Programmer in Supercell (New game🌻, previously Hay Day🐔)
+- 🎮👨‍💻 Game Programmer in Supercell (Squad Busters🟣, previously Hay Day🐔)
 - 🌱 Currently learning Rust🦀 and Godot🤖
-- 👨‍🏫 Mentor at [Gamedev-klub](https://nuorten.hel.fi/en/things-to-do-and-places/hobbies/gaming/gamedev-club/)
+- 👨‍🏫 Mentor at [Gamedev-klub](https://nuorten.hel.fi/en/things-to-do-and-places/hobbies/gaming/gamedev-club/) (2014-2023)
 
 ### Technologies I'm used to
 
