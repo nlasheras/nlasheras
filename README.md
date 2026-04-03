@@ -3,8 +3,10 @@
 🗺 Spaniard living in Finland
 
 - 🎮👨‍💻 Game Programmer in Supercell (Squad Busters🟣, previously Hay Day🐔)
-- 🌱 Currently learning Rust🦀 and Godot🤖
 - 👨‍🏫 Mentor at [Gamedev-klub](https://nuorten.hel.fi/en/things-to-do-and-places/hobbies/gaming/gamedev-club/) (2014-2023)
+- 🛏️ Not doing side-projects anymore
+- 🎴 I spend my free time playing card games, mostly [Netrunner](https://nullsignal.games/) but I also have a lot of fun [drafting Magic](https://motticon.com/)
+- 🐛 I am quite strong __debugging__, if you are starting your career you should try to get better with it
 
 ### Technologies I'm used to
 
